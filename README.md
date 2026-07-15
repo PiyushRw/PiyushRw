@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on machine learning <br>I'm  a student pursuing my B-tech in computer science<br>I'm keen in knowing Deep Learning and Generative AI<br>I'm right now focusing on Machine Learning implementations
+I'm currently working on machine learning <br>I'm  a student pursuing my B.tech in computer science<br>I'm keen in knowing Deep Learning and Generative AI<br>I'm right now focusing on Machine Learning implementations
 
 
 ## 🌐 Socials:
